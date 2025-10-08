@@ -1,6 +1,6 @@
 ### Hi, I'm Nihar Majalikar 👋
-- 🌱 I’m currently studying B.E. in Electronics and Communication from NMAMIT
-- 👀 I'm interested in Web Development and Data Science.
+- 🌱 Postgraduate student at La Trobe  
+- 👀 I'm interested in Networking and Telecommunication.
 <!--
 **NiharMajalikar/NiharMajalikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
